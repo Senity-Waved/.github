@@ -1,0 +1,6 @@
+![about-waved-1-title](/assets/1.png)
+![about-waved-2](/assets/2.png)
+![about-waved-3](/assets/3.png)
+![about-waved-4](/assets/4.png)
+![about-waved-5](/assets/5.png)
+![about-waved-6-team](/assets/6.png)
